@@ -31,8 +31,6 @@ A smooth and secure sign-up flow for a mobile application. Designed to collect u
 - Personalized and error-free input validation
 - Simple, secure, and mobile-first design
 
-🔗 [View Prototype](#) *(Add your Figma link inside the folder's README)*
-
 ---
 
 ### 2. 🍽️ [Restaurant Menu UI](./restaurant-menu/)
@@ -43,8 +41,6 @@ An engaging and easy-to-navigate digital restaurant menu designed for kiosks, ta
 - Categorized menu layout (Starters, Mains, Desserts, Beverages)
 - Clean typography, visuals, and color scheme
 - User-focused flow for browsing and selection
-
-🔗 [View Prototype](#)
 
 ---
 
@@ -57,8 +53,6 @@ A visually appealing and functional online store design. The focus is on improvi
 - Categorized layout with search functionality
 - Clean and conversion-focused interface
 
-🔗 [View Prototype](#)
-
 ---
 
 ## 📌 Summary
@@ -69,17 +63,5 @@ This internship allowed me to sharpen my UI/UX skills in real-world design tasks
 - Interaction design
 - Accessibility and responsiveness
 - User onboarding and engagement
-
----
-
-## 📫 Contact
-
-If you'd like to connect or collaborate, feel free to reach out:
-
-- **LinkedIn:** [Your LinkedIn](#)
-- **Email:** yourname@example.com
-- **Portfolio (optional):** [yourportfolio.com](#)
-
----
 
 Thank you for checking out my work!
