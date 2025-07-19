@@ -36,7 +36,7 @@ The goal of this project is to create a digital menu interface that:
 - Dish Details – Showing full description, delivery time, image, price
 
 🔗 Prototype Preview
-https://www.figma.com/proto/42yaMmCFsbdZkHp1ZOjRrn/Untitled?node-id=3-121&p=f&t=NCPWANea65Liz9Jg-1&scaling=scale-down&content-scaling=fixed&page-id=3%3A120&starting-point-node-id=3%3A121
+- https://www.figma.com/proto/42yaMmCFsbdZkHp1ZOjRrn/Untitled?node-id=3-121&p=f&t=NCPWANea65Liz9Jg-1&scaling=scale-down&content-scaling=fixed&page-id=3%3A120&starting-point-node-id=3%3A121
 
 📌 Notes
 - Designed as part of the CodSoft UI/UX Internship
