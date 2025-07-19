@@ -9,17 +9,17 @@ The goal of this project is to create a digital menu interface that:
 
 🧠 Design Principles:
 
-- Visually Appealing
+1. Visually Appealing
  - Clean layout with clear fonts and balanced spacing
  - Color schemes and images chosen for aesthetics and appetite appeal
  - Consistent use of brand elements (logo, colors, tone)
 
-- Easy to Use
+2. Easy to Use
  - Intuitive navigation
  - Clear labels, item descriptions, and pricing
  - Touch-friendly design for devices like tablets
 
-- Categorized Layout
+3. Categorized Layout
  - Dishes grouped into clear categories:
    - Starters
    - Main Course
