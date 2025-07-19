@@ -30,7 +30,7 @@
 - Figma (Primary)
 
 🧪 For Demo/prototype
-👉 https://www.figma.com/proto/8cHwmCE1VzkmrS9LtxD8jw/Untitled?node-id=22-49&starting-point-node-id=1%3A2&scaling=scale-down&content-scaling=fixed&t=IUJqaR4aX6T4BO1W-1
+- https://www.figma.com/proto/8cHwmCE1VzkmrS9LtxD8jw/Untitled?node-id=22-49&starting-point-node-id=1%3A2&scaling=scale-down&content-scaling=fixed&t=IUJqaR4aX6T4BO1W-1
 
 📂 Key Screens
 - Home Page – Showcases promotions, featured categories, and trending items
