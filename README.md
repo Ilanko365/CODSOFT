@@ -16,7 +16,7 @@ This repository includes:
 - **Role:** UI/UX Intern
 - **Duration:** 1 Month
 - **Period:** July 2025
-- **Tools Used:** Figma (main), Adobe XD (optional), Canva (optional)
+- **Tools Used:** Figma (main)
 
 ---
 
@@ -38,7 +38,7 @@ A smooth and secure sign-up flow for a mobile application. Designed to collect u
 An engaging and easy-to-navigate digital restaurant menu designed for kiosks, tablets, or online ordering platforms.
 
 **Highlights:**
-- Categorized menu layout (Starters, Mains, Desserts, Beverages)
+- Categorized menu layout (Breakfast, Lunch, Snacks, Dinner)
 - Clean typography, visuals, and color scheme
 - User-focused flow for browsing and selection
 
@@ -49,7 +49,7 @@ An engaging and easy-to-navigate digital restaurant menu designed for kiosks, ta
 A visually appealing and functional online store design. The focus is on improving product discovery and enhancing shopping experiences.
 
 **Highlights:**
-- Home, Product Listing, Product Detail, and Search screens
+- Home, Product Listing, and  Product Detail
 - Categorized layout with search functionality
 - Clean and conversion-focused interface
 
