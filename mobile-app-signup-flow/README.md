@@ -1,4 +1,4 @@
-📱 Mobile App Sign-Up Flow
+📱 Mobile App Sign-Up Flow : 
 This project showcases a clean and user-friendly "sign-up flow" for a mobile application. The goal was to design an intuitive user experience that makes onboarding fast, smooth, and visually appealing.
 
 🎯 Objective
